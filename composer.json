@@ -1,0 +1,14 @@
+{
+    "name": "rahib305/laravel-notify",
+    "autoload": {
+        "psr-4": {
+            "Rahib305\\LaravelNotify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rahib"
+        }
+    ],
+    "require": {}
+}
